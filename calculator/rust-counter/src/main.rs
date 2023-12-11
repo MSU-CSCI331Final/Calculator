@@ -1,3 +1,4 @@
+
 //Imports
 use yew::{html, Component, Context, Html};
 
@@ -64,7 +65,11 @@ impl Component for App {
                     { self.value }
                 </p>
 
-            
+                
+                
+                
+
+
             </div>
         }
     }
